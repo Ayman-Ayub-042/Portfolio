@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c50ce54.css",
+    "main.js": "/static/js/main.233cbf6a.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/travel.png": "/static/media/travel.5ae4be922f0d1cd36eb8.png",
+    "static/media/creatorones.png": "/static/media/creatorones.51e260df137a0eb98e29.png",
+    "static/media/restaurant.png": "/static/media/restaurant.bd0903751280a7c235cb.png",
+    "static/media/mytune.png": "/static/media/mytune.63ddfa944de52de67599.png",
+    "static/media/simlogical.png": "/static/media/simlogical.997de2969011135970ec.png",
+    "static/media/amazon.png": "/static/media/amazon.6e15d0652cbabc0868f4.png",
+    "static/media/admin.png": "/static/media/admin.863fac81807a65aa4f58.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Ayman_Ayub-cv.pdf": "/static/media/Ayman_Ayub-cv.04fcc53c6e2705d0eeee.pdf",
+    "static/media/expensetracker.png": "/static/media/expensetracker.1832b6282132b762733f.png",
+    "static/media/avatar.png": "/static/media/avatar.c0174e5687634f6dd28b.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo1.png": "/static/media/logo1.cc8cbdbaf4bb23adbafe.png",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.5c50ce54.css.map": "/static/css/main.5c50ce54.css.map",
+    "main.233cbf6a.js.map": "/static/js/main.233cbf6a.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c50ce54.css",
+    "static/js/main.233cbf6a.js"
+  ]
+}
